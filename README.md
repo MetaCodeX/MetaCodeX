@@ -35,6 +35,41 @@ Full Stack Engineer especializado en **.NET 8** y **Python/FastAPI**, con experi
 
 <div align="center">
 
+### 🎯 Especialidades y Enfoque
+
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <strong>🤖 Orquestación de Agentes de IA</strong>
+      <br />
+      <sub>Diseño e implementación de sistemas multi-agente autónomos y flujos de trabajo inteligentes distribuidos.</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>🌐 Arquitectura Backend & APIs</strong>
+      <br />
+      <sub>Desarrollo de microservicios robustos y de alto rendimiento utilizando .NET 8, Go y Python/FastAPI.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <strong>🛡️ Seguridad e Infraestructura</strong>
+      <br />
+      <sub>Autoalojamiento seguro de servidores, contenedores (Docker/K8s) y redes cerradas VPN/Tailscale.</sub>
+    </td>
+    <td align="center" width="50%">
+      <strong>⚡ Inferencia Local & Cuantización</strong>
+      <br />
+      <sub>Compresión de modelos, cuantización de KV-cache y despliegue local eficiente en hardware de consumo.</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🏆 Proyectos Destacados
 
 *   **Quantext** `TOP FINALIST · AMD Hackathon 2026`
@@ -75,6 +110,30 @@ Full Stack Engineer especializado en **.NET 8** y **Python/FastAPI**, con experi
 
 <div align="center">
 
+### 📊 Tiempo de Desarrollo (WakaTime)
+
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=MetaCodeX&theme=dark&bg_color=03050a&title_color=ffd700&text_color=ffffff&icon_color=ffd700&border_color=ffd700" alt="WakaTime Stats" width="400" />
+  
+  <br />
+  <sub>Nota: Asegúrate de activar la casilla "Share coding activity publicly" en la configuración de WakaTime.</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Actividad Reciente en GitHub
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</div>
+
+---
+
+<div align="center">
+
 ### 🎧 Escuchando en Spotify
 
   <a href="https://open.spotify.com/user/ldy4qqs8ujmjnkk3edm71fecu">
@@ -85,5 +144,17 @@ Full Stack Engineer especializado en **.NET 8** y **Python/FastAPI**, con experi
 ---
 
 <div align="center">
+
+### 🐍 Historial de Commits (Snake Game)
+
+  <img src="https://raw.githubusercontent.com/MetaCodeX/MetaCodeX/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake Animation" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
   <sub>Diseño y desarrollo con pasión por <a href="https://macrostasis.dev">macrostasis.dev</a>.</sub>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=MetaCodeX&color=ffd700&style=flat-square&label=VISTAS+DEL+PERFIL" alt="Views Counter" />
 </div>
