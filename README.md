@@ -3,7 +3,7 @@
   <!-- Custom Animated Banner with Left/Right Logos in HTML to bypass SVG sanitization -->
   <p align="center">
     <img src="./logo.png" height="55" style="vertical-align: middle; margin-right: 15px;" />
-    <img src="./banner.svg" alt="MetaCodeX Header" height="55" style="vertical-align: middle;" />
+    <img src="./banner.svg?v=2" alt="MetaCodeX Header" height="55" style="vertical-align: middle;" />
     <img src="./logo.png" height="55" style="vertical-align: middle; margin-left: 15px;" />
   </p>
 
