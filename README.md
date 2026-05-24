@@ -21,13 +21,19 @@
 
 ---
 
+<div align="center">
+
 ### 💻 Sobre Mí
 
 Full Stack Engineer especializado en **.NET 8** y **Python/FastAPI**, con experiencia real en **IA autónoma**, **arquitectura distribuida** y **despliegue autoalojado**. Entrego sistemas completos — de diseño a producción — con documentación técnica exhaustiva y sin necesidad de supervisión constante.
 
 📍 Veracruz, MX (Disponible para trabajo Remoto)
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🏆 Proyectos Destacados
 
@@ -42,7 +48,11 @@ Full Stack Engineer especializado en **.NET 8** y **Python/FastAPI**, con experi
 *   **OmniDocs** `PRODUCCIÓN`
     *   *Motor de documentación empresarial declarativa* con parser custom de Markdown AST, RAG semántico para consultas rápidas, EventBus asíncrono y colas asyncio.
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🛡️ Ciberseguridad & Logros
 
@@ -50,19 +60,23 @@ Full Stack Engineer especializado en **.NET 8** y **Python/FastAPI**, con experi
     *   Resolución de desafíos críticos de servidor e infraestructura en CTF competitivo internacional.
     *   **Premio obtenido:** 1 ETH.
 
+</div>
+
 ---
+
+<div align="center">
 
 ### 🛠️ Stack Tecnológico
 
-<div align="center">
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,go,ts,cpp,java,html,css,fastapi,nodejs,express,php,angular,react,nextjs,threejs,tailwind,postgres,redis,mysql,mongodb,sqlite,docker,kubernetes,linux,nginx,cloudflare,tailscale,jenkins,githubactions,arduino,tensorflow&theme=dark" alt="My Skills" />
 </div>
 
 ---
 
+<div align="center">
+
 ### 📊 Actividad en GitHub
 
-<div align="center">
   <table border="0">
     <tr>
       <td align="center">
@@ -77,9 +91,10 @@ Full Stack Engineer especializado en **.NET 8** y **Python/FastAPI**, con experi
 
 ---
 
-### 🎧 Escuchando en Spotify (Tiempo Real)
-
 <div align="center">
+
+### 🎧 Escuchando en Spotify
+
   <a href="https://open.spotify.com/user/ldy4qqs8ujmjnkk3edm71fecu">
     <img src="https://macrostasis.dev/api/spotify?v=3" alt="Spotify Live Player" width="450" />
   </a>
