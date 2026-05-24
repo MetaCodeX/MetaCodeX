@@ -40,7 +40,9 @@
 
   <!-- Logo and title -->
   <g transform="translate(50, 90)">
-    <text x="0" y="0" class="title">META CODEX</text>
+    <image href="./logo.png" x="0" y="-42" width="28" height="42" />
+    <text x="40" y="0" class="title">META CODEX</text>
+    <image href="./logo.png" x="385" y="-42" width="28" height="42" />
   </g>
   
   <!-- Animated subtitle -->
