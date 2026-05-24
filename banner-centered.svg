@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 140" width="100%" height="100%">
+  <style>
+    @keyframes typing {
+      from { width: 0 }
+      to { width: 430px }
+    }
+    @keyframes blink {
+      from, to { border-color: transparent }
+      50% { border-color: #ffd700 }
+    }
+    .title {
+      font-family: system-ui, -apple-system, sans-serif;
+      font-size: 76px;
+      font-weight: 800;
+      letter-spacing: 6px;
+      text-anchor: middle;
+    }
+    .meta-part {
+      fill: #ffe57f; /* Luminous bright champagne gold */
+    }
+    .codex-part {
+      fill: #ffb300; /* Deep amber gold */
+    }
+    .subtitle-container {
+      overflow: hidden;
+      border-right: 3px solid #ffd700;
+      width: 0;
+      animation: typing 3.5s steps(30, end) 0.5s forwards, blink .75s step-end infinite;
+    }
+    .subtitle-text {
+      font-family: 'Courier New', Courier, monospace;
+      font-size: 18px;
+      fill: #a0aec0;
+      letter-spacing: 2px;
+      white-space: nowrap;
+    }
+  </style>
+  <rect width="100%" height="100%" fill="none"/>
+  
+  <!-- Subtle background glow -->
+  <defs>
+    <radialGradient id="glow" cx="50%" cy="50%" r="60%">
+      <stop offset="0%" stop-color="#ffd700" stop-opacity="0.08"/>
+      <stop offset="100%" stop-color="#000000" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="url(#glow)"/>
+
+  <!-- Center-aligned title with distinct golden shades -->
+  <text x="300" y="70" class="title" text-anchor="middle">
+    <tspan class="meta-part">META</tspan> <tspan class="codex-part">CODEX</tspan>
+  </text>
+  
+  <!-- Center-aligned animated subtitle -->
+  <svg x="85" y="95" width="430" height="40" class="subtitle-container">
+    <text x="215" y="28" class="subtitle-text" text-anchor="middle">FULL STACK &amp; AI AGENT ENGINEER</text>
+  </svg>
+</svg>

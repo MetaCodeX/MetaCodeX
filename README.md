@@ -2,9 +2,9 @@
   
   <!-- Custom Animated Banner with Left/Right Logos in HTML to bypass SVG sanitization -->
   <p align="center">
-    <img src="./logo.png" height="90" style="vertical-align: middle; margin-right: 20px;" />
-    <img src="./banner.svg?v=4" alt="MetaCodeX Header" height="90" style="vertical-align: middle;" />
-    <img src="./logo.png" height="90" style="vertical-align: middle; margin-left: 20px;" />
+    <img src="./logo.png" height="100" style="vertical-align: middle; margin-right: 20px;" />
+    <img src="./banner-centered.svg?v=1" alt="MetaCodeX Header" height="100" style="vertical-align: middle;" />
+    <img src="./logo.png" height="100" style="vertical-align: middle; margin-left: 20px;" />
   </p>
 
   <p align="center">
