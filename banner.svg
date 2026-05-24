@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 100" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="100%" height="100%">
   <style>
     @keyframes typing {
       from { width: 0 }
-      to { width: 350px }
+      to { width: 390px }
     }
     @keyframes blink {
       from, to { border-color: transparent }
@@ -10,10 +10,11 @@
     }
     .title {
       font-family: system-ui, -apple-system, sans-serif;
-      font-size: 48px;
+      font-size: 58px;
       fill: #ffd700;
       font-weight: 800;
       letter-spacing: 6px;
+      text-anchor: middle;
     }
     .subtitle-container {
       overflow: hidden;
@@ -23,7 +24,7 @@
     }
     .subtitle-text {
       font-family: 'Courier New', Courier, monospace;
-      font-size: 16px;
+      font-size: 18px;
       fill: #a0aec0;
       letter-spacing: 2px;
       white-space: nowrap;
@@ -41,12 +42,10 @@
   <rect width="100%" height="100%" fill="url(#glow)"/>
 
   <!-- Center-aligned title -->
-  <g transform="translate(300, 48)">
-    <text x="0" y="0" class="title" text-anchor="middle">META CODEX</text>
-  </g>
+  <text x="300" y="55" class="title" text-anchor="middle">META CODEX</text>
   
   <!-- Center-aligned animated subtitle -->
-  <svg x="125" y="65" width="350" height="30" class="subtitle-container">
-    <text x="0" y="20" class="subtitle-text">FULL STACK &amp; AI AGENT ENGINEER</text>
+  <svg x="105" y="75" width="390" height="35" class="subtitle-container">
+    <text x="0" y="25" class="subtitle-text">FULL STACK &amp; AI AGENT ENGINEER</text>
   </svg>
 </svg>
