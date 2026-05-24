@@ -71,10 +71,8 @@ Soy Carlos Eduardo Juarez Ricardo, un ingeniero de software con fuerte enfoque e
 ### 🎧 Actualmente escuchando en Spotify
 
 <div align="center">
-  <p><i>Vincula tu cuenta en <a href="https://spotify-github-profile.vercel.app/">spotify-github-profile</a> para habilitar la reproducción en tiempo real.</i></p>
-  <br />
   <a href="https://open.spotify.com/user/ldy4qqs8ujmjnkk3edm71fecu">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=ldy4qqs8ujmjnkk3edm71fecu&cover_image=true&theme=dark" alt="Spotify" width="400" />
+    <img src="https://macrostasis.dev/api/spotify" alt="Spotify" width="400" />
   </a>
 </div>
 
