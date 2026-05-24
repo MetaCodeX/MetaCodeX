@@ -121,4 +121,6 @@ Full Stack Engineer especializado en **.NET 8** y **Python/FastAPI**, con experi
 
 <div align="center">
   <sub>Diseño y desarrollo con pasión por <a href="https://macrostasis.dev">macrostasis.dev</a>.</sub>
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=MetaCodeX&color=ffd700&style=flat-square&label=VISTAS+DEL+PERFIL" alt="Views Counter" />
 </div>
