@@ -94,7 +94,7 @@ Full Stack Engineer especializado en **.NET 8** y **Python/FastAPI**, con experi
 
 <div align="center">
   <a href="https://open.spotify.com/user/ldy4qqs8ujmjnkk3edm71fecu">
-    <img src="https://macrostasis.dev/api/spotify" alt="Spotify Live Player" width="450" />
+    <img src="https://macrostasis.dev/api/spotify?v=3" alt="Spotify Live Player" width="450" />
   </a>
 </div>
 
