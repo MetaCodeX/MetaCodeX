@@ -2,9 +2,9 @@
   
   <!-- Custom Animated Banner with Left/Right Logos in HTML to bypass SVG sanitization -->
   <p align="center">
-    <img src="./logo.png" height="55" style="vertical-align: middle; margin-right: 15px;" />
-    <img src="./banner.svg?v=2" alt="MetaCodeX Header" height="55" style="vertical-align: middle;" />
-    <img src="./logo.png" height="55" style="vertical-align: middle; margin-left: 15px;" />
+    <img src="./logo.png" height="75" style="vertical-align: middle; margin-right: 15px;" />
+    <img src="./banner.svg?v=3" alt="MetaCodeX Header" height="75" style="vertical-align: middle;" />
+    <img src="./logo.png" height="75" style="vertical-align: middle; margin-left: 15px;" />
   </p>
 
   <p align="center">
@@ -69,24 +69,6 @@ Full Stack Engineer especializado en **.NET 8** y **Python/FastAPI**, con experi
 ### 🛠️ Stack Tecnológico
 
   <img src="https://skillicons.dev/icons?i=python,cs,dotnet,go,ts,cpp,java,html,css,fastapi,nodejs,express,php,angular,react,nextjs,threejs,tailwind,postgres,redis,mysql,mongodb,sqlite,docker,kubernetes,linux,nginx,cloudflare,tailscale,jenkins,githubactions,arduino,tensorflow&theme=dark" alt="My Skills" />
-</div>
-
----
-
-<div align="center">
-
-### 📊 Actividad en GitHub
-
-  <table border="0">
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=MetaCodeX&show_icons=true&theme=dark&bg_color=03050a&title_color=ffd700&text_color=ffffff&icon_color=ffd700&border_color=ffd700&count_private=true" alt="MetaCodeX Stats" width="400" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MetaCodeX&layout=compact&theme=dark&bg_color=03050a&title_color=ffd700&text_color=ffffff&icon_color=ffd700&border_color=ffd700&langs_count=8" alt="MetaCodeX Top Languages" width="350" />
-      </td>
-    </tr>
-  </table>
 </div>
 
 ---
